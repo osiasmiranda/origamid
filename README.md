@@ -10,6 +10,7 @@ https://origamid.com/projetos/flexblog/
 - Editor VScode
 ## Layout web
 ![Web 1](https://github.com/osiasmiranda/origamid/cssflexbox/flexblog/img/ss1.png)
+![Web 2](https://github.com/osiasmiranda/origamid/blob/9a77b319fb15494f8ec7b9ec721970aa988263ba/cssflexbox/flexblog/img/ss1.png)
 
 cssflexbox/flexblog/img/ss1.png
 
